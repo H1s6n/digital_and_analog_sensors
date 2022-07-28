@@ -4,6 +4,3 @@ Tasks simulated in Proteus
 
 Analog Sensor :
 FSR Force sensitive resistor
-
-Digital Sensor :
-Relay_NPN transistor
